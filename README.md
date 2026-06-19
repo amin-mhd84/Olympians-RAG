@@ -133,5 +133,3 @@ jupyter notebook Olympians.ipynb
 - هرگز کلید API را در کد commit نکن — همیشه از `.env` استفاده کن (به `.gitignore` نگاه کن).
 
 ---
-
-<p align="center">ساخته‌شده با ❤️ و کمی الهام از کوه الیمپوس</p>
